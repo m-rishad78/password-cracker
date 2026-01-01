@@ -43,7 +43,7 @@
 
  .  
  ├── crack.py  
- ├── passwords.txt  
+ ├── wordlist.txt  
  └── README.md
 
 ## 🧰 Requirements
